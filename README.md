@@ -1,2 +1,0 @@
-# LearningJS
-Created with CodeSandbox
